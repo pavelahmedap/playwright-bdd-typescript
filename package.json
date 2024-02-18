@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@types/node": "^20.11.19",
     "allure-commandline": "^2.27.0",
     "allure-playwright": "^2.12.2",
     "playwright-bdd": "^5.7.1"
