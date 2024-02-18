@@ -5,6 +5,7 @@ const testDir = defineBddConfig({
   paths: ["src/features/*.feature"],
   require: ["src/step-definitions/**/*.ts"],
   // ...other playwright-bdd options
+  //   outputDir: ".features-gen/one",
 });
 
 export default defineConfig({
